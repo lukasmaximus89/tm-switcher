@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/inquirer": "^7.3.1",
-    "atem-connection": "^3.0.1",
+    "atem-connection": "^3.5.0",
     "inquirer": "^7.3.3",
     "obs-websocket-js": "^5.0.1",
     "vex-tm-client": "^1.4.0"
