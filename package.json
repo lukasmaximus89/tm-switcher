@@ -11,7 +11,7 @@
     "rb": "npm run bundle && ./bundle/tm-switcher-macos"
   },
   "dependencies": {
-    "@types/inquirer": "^7.3.1",
+    "@types/inquirer": "^7.3.3",
     "atem-connection": "^3.0.1",
     "inquirer": "^7.3.3",
     "obs-websocket-js": "^5.0.1",
